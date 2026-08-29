@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../../../../../source/repos/C#Fundamentals/ADO.NET/ADOD2/My Ticket/TicketBooking.Api/TicketBooking.Api.csproj" />
+  <Project Path="../../../../../../source/repos/C#Fundamentals/ADO.NET/ADOD2/My Ticket/TicketBooking.Application/TicketBooking.Application.csproj" />
+  <Project Path="../../../../../../source/repos/C#Fundamentals/ADO.NET/ADOD2/My Ticket/TicketBooking.Domain/TicketBooking.Domain.csproj" />
+  <Project Path="../../../../../../source/repos/C#Fundamentals/ADO.NET/ADOD2/My Ticket/TicketBooking.Infrastructure/TicketBooking.Infrastructure.csproj" />
+</Solution>
