@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Xml.Linq;
 using TicketBooking.Domain.BaseEntity;
+using TicketBooking.Domain.Entities.Venues;
 
 namespace TicketBooking.Domain.Entities.Venues
 {

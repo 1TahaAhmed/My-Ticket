@@ -1,14 +1,14 @@
 ﻿using System;
+using Ticket;
 using TicketBooking.Domain.BaseEntity;
 using TicketBooking.Domain.Entities.Pricing;
-using TicketBooking.Domain.Enums;
 
 namespace TicketBooking.Domain.Entities.Ticketing
 {
     public class Ticket : MBaseEntity
     {
-        public Guid OrderId { get; private set; }
-        public Order? Order { get; private set; }
+        public Guid BookingId { get; private set; }
+        public Booking? Booking { get; private set; }
 
         public Guid EventSeatId { get; private set; }
         public EventSeat? EventSeat { get; private set; }
@@ -22,10 +22,10 @@ namespace TicketBooking.Domain.Entities.Ticketing
 
         private Ticket() { }
 
-        public Ticket(Guid orderId, Guid eventSeatId, decimal price)
+        public Ticket(Guid bookingId, Guid eventSeatId, decimal price)
         {
-            if (orderId == Guid.Empty)
-                throw new ArgumentException("OrderId is required.", nameof(orderId));
+            if (bookingId == Guid.Empty)
+                throw new ArgumentException("BookingId is required.", nameof(BookingId));
 
             if (eventSeatId == Guid.Empty)
                 throw new ArgumentException("EventSeatId is required.", nameof(eventSeatId));
@@ -33,7 +33,7 @@ namespace TicketBooking.Domain.Entities.Ticketing
             if (price <= 0)
                 throw new ArgumentException("Price must be greater than zero.", nameof(price));
 
-            OrderId = orderId;
+            BookingId = bookingId;
             EventSeatId = eventSeatId;
             Price = price;
 

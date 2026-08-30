@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Ticket;
 using TicketBooking.Domain.BaseEntity;
 
 namespace TicketBooking.Domain.Entities.Venues

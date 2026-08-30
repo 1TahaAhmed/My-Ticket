@@ -1,13 +1,14 @@
 ﻿using System;
+using Ticket;
 using TicketBooking.Domain.BaseEntity;
 using TicketBooking.Domain.Entities.Pricing;
 
 namespace TicketBooking.Domain.Entities.Ticketing
 {
-    public class OrderItem : BaseEntity<int>
+    public class BookingItem : BaseEntity<Guid>
     {
-        public Guid OrderId { get; private set; }
-        public Order? Order { get; private set; }
+        public Guid BookingId { get; private set; }
+        public Booking? Booking { get; private set; }
 
         public Guid EventSeatId { get; private set; }
         public EventSeat? EventSeat { get; private set; }
@@ -16,17 +17,17 @@ namespace TicketBooking.Domain.Entities.Ticketing
         public string SeatLabel { get; private set; } = string.Empty;
         public string SectionName { get; private set; } = string.Empty;
 
-        private OrderItem() { }
+        private BookingItem() { }
 
-        public OrderItem(
-            Guid orderId,
+        public BookingItem(
+            Guid bookingId,
             Guid eventSeatId,
             decimal price,
             string seatLabel,
             string sectionName)
         {
-            if (orderId == Guid.Empty)
-                throw new ArgumentException("OrderId is required.", nameof(orderId));
+            if (bookingId == Guid.Empty)
+                throw new ArgumentException("BookingId is required.", nameof(BookingId));
 
             if (eventSeatId == Guid.Empty)
                 throw new ArgumentException("EventSeatId is required.", nameof(eventSeatId));
@@ -39,8 +40,8 @@ namespace TicketBooking.Domain.Entities.Ticketing
 
             if (string.IsNullOrWhiteSpace(sectionName))
                 throw new ArgumentException("Section name cannot be empty.", nameof(sectionName));
-
-            OrderId = orderId;
+            
+            BookingId = bookingId;
             EventSeatId = eventSeatId;
             Price = price;
             SeatLabel = seatLabel.Trim();

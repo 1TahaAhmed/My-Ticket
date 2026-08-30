@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using TicketBooking.Domain.BaseEntity;
+using TicketBooking.Domain.Entities.Venues;
 
-namespace TicketBooking.Domain.Entities.Venues
+namespace Ticket
 {
     public class Venue : MBaseEntity
     {

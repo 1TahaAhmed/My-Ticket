@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Ticket;
 using TicketBooking.Domain.BaseEntity;
-using TicketBooking.Domain.Entities.Venues;
-using TicketBooking.Domain.Enums;
 
 namespace TicketBooking.Domain.Entities.Catalog
 {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TicketBooking.Domain.Entities.AddOns
 {
-    public class OrderAddOn
+    public class BookingAddOn
     {
     }
 }

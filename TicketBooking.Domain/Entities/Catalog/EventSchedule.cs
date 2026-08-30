@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Ticket;
 using TicketBooking.Domain.BaseEntity;
-     
+
 namespace TicketBooking.Domain.Entities.Catalog
 {    
     public class EventSchedule : MBaseEntity

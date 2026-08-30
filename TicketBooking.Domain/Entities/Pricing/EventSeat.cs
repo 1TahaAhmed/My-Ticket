@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using TicketBooking.Domain.BaseEntity;
+using Ticket;
 using TicketBooking.Domain.Entities.Catalog;
 using TicketBooking.Domain.Entities.Venues;
-using TicketBooking.Domain.Enums;
+using TicketBooking.Domain;
+using TicketBooking.Domain.BaseEntity;
 
 namespace TicketBooking.Domain.Entities.Pricing
 {
@@ -55,10 +56,10 @@ namespace TicketBooking.Domain.Entities.Pricing
             SeatStatus = EventSeatStatus.Reserved;
         }
 
-        public void ConfirmBooking()
+        public void ConfirmBookinging()
         {
             if (SeatStatus != EventSeatStatus.Reserved)
-                throw new InvalidOperationException($"Cannot confirm booking. Seat must be in Reserved status, but was {SeatStatus}.");
+                throw new InvalidOperationException($"Cannot confirm Bookinging. Seat must be in Reserved status, but was {SeatStatus}.");
 
             SeatStatus = EventSeatStatus.Sold;
         }
