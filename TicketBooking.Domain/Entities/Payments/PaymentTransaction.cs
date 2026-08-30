@@ -21,7 +21,7 @@ namespace TicketBooking.Domain.Entities.Payments
         public PaymentTransaction(Guid bookingId,PaymentMethod paymentMethod, string transactionRef, decimal amount, string failureReason)
         {
             if (bookingId == Guid.Empty)
-                throw new ArgumentException("BookingingId is required.", nameof(bookingId));
+                throw new ArgumentException("BookingId is required.", nameof(bookingId));
 
             if (amount <= 0)
                 throw new ArgumentException("Amount must be greater than zero.", nameof(amount));

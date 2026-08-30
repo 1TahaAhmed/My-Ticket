@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using TicketBooking.Domain.BaseEntity;
 using TicketBooking.Domain.Entities.Ticketing;
+using System.Linq;
 
-namespace TicketBookinging.Domain.Entities.Ticketing
+namespace TicketBooking.Domain.Entities.Ticketing
 {
     public class Cart : MBaseEntity
     {

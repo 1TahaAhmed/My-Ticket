@@ -56,10 +56,10 @@ namespace TicketBooking.Domain.Entities.Pricing
             SeatStatus = EventSeatStatus.Reserved;
         }
 
-        public void ConfirmBookinging()
+        public void ConfirmBooking()
         {
             if (SeatStatus != EventSeatStatus.Reserved)
-                throw new InvalidOperationException($"Cannot confirm Bookinging. Seat must be in Reserved status, but was {SeatStatus}.");
+                throw new InvalidOperationException($"Cannot confirm Booking. Seat must be in Reserved status, but was {SeatStatus}.");
 
             SeatStatus = EventSeatStatus.Sold;
         }

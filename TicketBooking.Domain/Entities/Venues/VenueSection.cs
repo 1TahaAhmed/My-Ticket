@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Ticket;
+using System.Linq;
 using TicketBooking.Domain.BaseEntity;
 
 namespace TicketBooking.Domain.Entities.Venues
@@ -31,7 +31,7 @@ namespace TicketBooking.Domain.Entities.Venues
             VenueZoneId = venueZoneId;
             UpdateDetails(name, capacity, code);
         }
-        
+
         public void UpdateDetails(string name, int capacity, string code = "")
         {
             if (string.IsNullOrWhiteSpace(name))
@@ -52,9 +52,10 @@ namespace TicketBooking.Domain.Entities.Venues
             ArgumentNullException.ThrowIfNull(seat);
 
             if (_seats.Count >= Capacity)
-            {
-                throw new InvalidOperationException($"Cannot add more seats than the Section capacity ({Capacity}).");
-            }
+                throw new InvalidOperationException($"Cannot add more seats than Section capacity ({Capacity}).");
+
+            if (_seats.Any(s => s.RowNumber == seat.RowNumber && s.SeatNumber == seat.SeatNumber))
+                throw new InvalidOperationException($"Seat '{seat.RowNumber}-{seat.SeatNumber}' already exists in this Section.");
 
             _seats.Add(seat);
         }

@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
 using TicketBooking.Domain.BaseEntity;
-using TicketBooking.Domain.Entities.Venues;
 
-namespace Ticket
+namespace TicketBooking.Domain.Entities.Venues
 {
     public class Venue : MBaseEntity
     {
@@ -13,16 +12,15 @@ namespace Ticket
         public string Address { get; private set; } = string.Empty;
         public string City { get; private set; } = string.Empty;
         public string Country { get; private set; } = string.Empty;
-        public int Capacity {  get; private set; }
+        public int Capacity { get; private set; }
         public string LocationUrl { get; private set; } = string.Empty;
 
-        private readonly List<VenueGate> _gates = new();
-        public IReadOnlyCollection<VenueGate> gates => _gates.AsReadOnly();
-        
+        private readonly List<string> _gates = new();
+        public IReadOnlyCollection<string> Gates => _gates.AsReadOnly();
 
         private readonly List<VenueZone> _zones = new();
-        public IReadOnlyCollection<VenueZone> zones => _zones.AsReadOnly();
-        
+        public IReadOnlyCollection<VenueZone> Zones => _zones.AsReadOnly();
+
         private Venue() { }
 
         public Venue(
@@ -64,14 +62,31 @@ namespace Ticket
             LocationUrl = locationUrl?.Trim() ?? string.Empty;
         }
 
-        public void AddGate(VenueGate gate) 
+        public void AddGate(string gate)
         {
-            ArgumentNullException.ThrowIfNull(gate);
-            _gates.Add(gate);
+            if (string.IsNullOrWhiteSpace(gate))
+                throw new ArgumentException("Gate name cannot be empty.", nameof(gate));
+
+            var trimmedGate = gate.Trim();
+            if (_gates.Contains(trimmedGate, StringComparer.OrdinalIgnoreCase))
+                throw new InvalidOperationException($"Gate '{trimmedGate}' already exists in this venue.");
+
+            _gates.Add(trimmedGate);
         }
-        public void AddZone(VenueZone zone) 
+
+        public void RemoveGate(string gate)
+        {
+            if (string.IsNullOrWhiteSpace(gate)) return;
+            _gates.RemoveAll(g => g.Equals(gate.Trim(), StringComparison.OrdinalIgnoreCase));
+        }
+
+        public void AddZone(VenueZone zone)
         {
             ArgumentNullException.ThrowIfNull(zone);
+
+            if (_zones.Any(z => z.Id == zone.Id))
+                throw new InvalidOperationException("This zone is already added to the venue.");
+
             _zones.Add(zone);
         }
     }

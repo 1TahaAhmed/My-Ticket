@@ -18,7 +18,6 @@ namespace TicketBooking.Domain.Entities.Catalog
         public Venue? Venue { get; private set; }
         public int CategoryId { get; private set; }
         public Category? Category { get; private set; }
-        public EventCancellation? Cancellation { get; private set; }
         public Guid OrganizerId { get; private set; }
         public EventOrganizer? Organizer { get; private set; }
 
