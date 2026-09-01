@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using TicketBooking.Domain.BaseEntity;
 using TicketBooking.Domain.Entities.AddOns;
+using TicketBooking.Domain.Entities.Identity;
 using TicketBooking.Domain.Entities.Promotions;
 using TicketBooking.Domain.Enums;
 
@@ -11,6 +12,7 @@ namespace TicketBooking.Domain.Entities.Ticketing
     public class Booking : MBaseEntity
     {
         public Guid UserId { get; private set; }
+        public ApplicationUser? User { get; private set; }
         public string BookingReference { get; private set; } = string.Empty;
         public BookingStatus Status { get; private set; } = BookingStatus.Reserved;
 

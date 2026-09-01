@@ -1,19 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 using TicketBooking.Domain.BaseEntity;
 
 namespace TicketBooking.Domain.Entities.Catalog
 {
-    public class EventOrganizer : BaseEntity<int>
+    public class EventOrganizer : BaseEntity<Guid>
     {
+        [Required, MaxLength(255)]
         public string Name { get; private set; } = default!;
+        [Required, EmailAddress]
         public string Email { get; private set; } = default!;
+        [Required, Phone]
         public string PhoneNumber { get; private set; } = default!;
+        [MaxLength(1000)]
         public string? LogoUrl { get; private set; }
+        [MaxLength(2550)]
         public string? Bio { get; private set; }
         public bool IsVerified { get; private set; }
-
+        
         private readonly List<Event> _events = new();
         public IReadOnlyCollection<Event> Events => _events.AsReadOnly();
 

@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 using Ticket;
 using TicketBooking.Domain.BaseEntity;
 
 namespace TicketBooking.Domain.Entities.Catalog
 {    
-    public class EventSchedule : MBaseEntity
+    public class EventSchedule : BaseEntity<Guid>
     {
+        [Required, ForeignKey(nameof(Event))]
         public Guid EventId { get; private set; }
         public Event? Event { get; private set; }
      
@@ -18,12 +21,9 @@ namespace TicketBooking.Domain.Entities.Catalog
         public bool IsCancelled { get; private set; }
      
         private EventSchedule() { }
-
+        
         public EventSchedule(Guid eventId, DateTime startAtUtc, DateTime endAtUtc, DateTime? doorsOpenAtUtc = null)
         {
-            if (eventId == Guid.Empty)
-                throw new ArgumentException("EventId is required.", nameof(eventId));
-
             EventId = eventId;
             SetSchedule(startAtUtc, endAtUtc, doorsOpenAtUtc);
         }
@@ -41,7 +41,7 @@ namespace TicketBooking.Domain.Entities.Catalog
             DoorsOpenAtUtc = doorsOpenAtUtc;
         }
 
-        public void UpdateSchedule(DateTime doorsOpenAtUtc , DateTime startAtUtc, DateTime endAtUtc)
+        public void UpdateSchedule(DateTime startAtUtc , DateTime endAtUtc, DateTime doorsOpenAtUtc)
         {
             SetSchedule(startAtUtc, endAtUtc, doorsOpenAtUtc);
         }

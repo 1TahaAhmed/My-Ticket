@@ -4,12 +4,14 @@ using System.Text;
 using TicketBooking.Domain.BaseEntity;
 using TicketBooking.Domain.Entities.Ticketing;
 using System.Linq;
+using TicketBooking.Domain.Entities.Identity;
 
 namespace TicketBooking.Domain.Entities.Ticketing
 {
     public class Cart : MBaseEntity
     {
         public Guid UserId { get; private set; }
+        public ApplicationUser? User { get; private set; }
         public DateTime ExpiresAtUtc { get; private set; }
         public bool IsCheckedOut { get; private set; }
 
@@ -42,21 +44,7 @@ namespace TicketBooking.Domain.Entities.Ticketing
             if (IsExpired)
                 throw new InvalidOperationException("Cannot add items to an expired cart.");
 
-            if (_items.Any(x => x.EventSeatId == item.EventSeatId))
-                throw new InvalidOperationException("This seat is already in the cart.");
-
             _items.Add(item);
-        }
-        public void RemoveItem(Guid eventSeatId)
-        {
-            if (IsCheckedOut)
-                throw new InvalidOperationException("Cannot remove items from a checked-out cart.");
-
-            var item = _items.FirstOrDefault(x => x.EventSeatId == eventSeatId);
-            if (item != null)
-            {
-                _items.Remove(item);
-            }
         }
         public void MarkAsCheckedOut()
         {

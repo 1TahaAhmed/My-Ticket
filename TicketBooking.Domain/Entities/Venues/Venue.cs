@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using TicketBooking.Domain.BaseEntity;
+using TicketBooking.Domain.Entities.Catalog;
 
 namespace TicketBooking.Domain.Entities.Venues
 {
-    public class Venue : MBaseEntity
+    public class Venue : BaseEntity<int>
     {
         public string Name { get; private set; } = string.Empty;
         public string Description { get; private set; } = string.Empty;

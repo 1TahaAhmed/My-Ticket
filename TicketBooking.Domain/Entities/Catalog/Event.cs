@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Text;
 using Ticket;
 using TicketBooking.Domain.BaseEntity;
+using TicketBooking.Domain.Entities.Venues;
+using TicketBooking.Domain.ValueObjects;
 
 namespace TicketBooking.Domain.Entities.Catalog
 {
-    public class Event : MBaseEntity
+    public class Event : BaseEntity<Guid>
     {
         public string Name { get; private set; } = string.Empty;
         public string Description { get; private set; } = string.Empty;
@@ -14,8 +16,8 @@ namespace TicketBooking.Domain.Entities.Catalog
         public string Metadata { get; private set; } = string.Empty;
         public EventStatus Status { get; private set; } = EventStatus.Draft;
 
-        public Guid VenueId { get; private set; }
-        public Venue? Venue { get; private set; }
+        private readonly List<Venue> _venues = new();
+        public IReadOnlyCollection<Venue> Venues => _venues.AsReadOnly();
         public int CategoryId { get; private set; }
         public Category? Category { get; private set; }
         public Guid OrganizerId { get; private set; }
@@ -28,14 +30,13 @@ namespace TicketBooking.Domain.Entities.Catalog
         public IReadOnlyCollection<EventPerformer> Performers => _performers.AsReadOnly();
 
         private Event() { }
-        public Event(string name, int categoryId, Guid venueId, Guid organizerId, string description = "")
+        public Event(string name, int categoryId, Guid organizerId, string description = "")
         {
             UpdateDetails(name, description);
 
             if (categoryId <= 0) throw new ArgumentException("Invalid CategoryId", nameof(categoryId));
             CategoryId = categoryId;
 
-            VenueId = venueId != Guid.Empty ? venueId : throw new ArgumentException("Invalid VenueId", nameof(venueId));
             OrganizerId = organizerId != Guid.Empty ? organizerId : throw new ArgumentException("Invalid OrganizerId", nameof(organizerId));
         }
 
@@ -60,6 +61,12 @@ namespace TicketBooking.Domain.Entities.Catalog
         {
             ArgumentNullException.ThrowIfNull(performer);
             _performers.Add(performer);
+        }
+
+        public void AddVenue(Venue venue)
+        {
+            ArgumentNullException.ThrowIfNull(venue);
+            _venues.Add(venue);
         }
 
         public void Publish()

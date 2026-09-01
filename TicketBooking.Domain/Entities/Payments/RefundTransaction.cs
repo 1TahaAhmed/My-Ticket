@@ -16,7 +16,7 @@ namespace TicketBooking.Domain.Entities.Ticketing
         public decimal Amount { get; private set; }
         public string Reason { get; private set; } = string.Empty;
         public RefundStatus Status { get; private set; } = RefundStatus.Pending;
-        public string? GatewayRefundReference { get; private set; } // Paymob / Payment Gateway Refund ID
+        public string? GatewayRefundReference { get; private set; }
         public DateTime RequestedAtUtc { get; private set; } = DateTime.UtcNow;
         public DateTime? ProcessedAtUtc { get; private set; }
         public string? FailureReason { get; private set; }

@@ -1,7 +1,7 @@
 ﻿using System;
-using Ticket;
 using TicketBooking.Domain.BaseEntity;
 using TicketBooking.Domain.Entities.Pricing;
+using TicketBooking.Domain.Enums;
 
 namespace TicketBooking.Domain.Entities.Ticketing
 {

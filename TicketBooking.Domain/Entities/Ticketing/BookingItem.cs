@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using Ticket;
 using TicketBooking.Domain.BaseEntity;
 using TicketBooking.Domain.Entities.Pricing;
@@ -7,14 +9,21 @@ namespace TicketBooking.Domain.Entities.Ticketing
 {
     public class BookingItem : BaseEntity<Guid>
     {
+        [Required, ForeignKey(nameof(Booking))]
         public Guid BookingId { get; private set; }
         public Booking? Booking { get; private set; }
 
+        [Required, ForeignKey(nameof(EventSeat))]
         public Guid EventSeatId { get; private set; }
         public EventSeat? EventSeat { get; private set; }
 
+        [Required, Column(TypeName = "decimal(18,2)")]
         public decimal Price { get; private set; }
+
+        [Required, MaxLength(100)]
         public string SeatLabel { get; private set; } = string.Empty;
+
+        [Required, MaxLength(100)]
         public string SectionName { get; private set; } = string.Empty;
 
         private BookingItem() { }

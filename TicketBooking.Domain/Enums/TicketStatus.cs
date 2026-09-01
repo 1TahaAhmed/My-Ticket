@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ticket
+namespace TicketBooking.Domain.Enums
 {
     public enum TicketStatus
     {
         none = 0,
         Issued,
-        Used, 
+        Used,
         Cancelled,
         Refunded
     }

@@ -3,132 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Migrations\\20260901215107_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicketBooking.Infrastructure\\Migrations\\20260901215107_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\venuesection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\venuesection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\venuezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\venuezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\seatmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\seatmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\ticketing\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\ticketing\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\payments\\paymentwebhooklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\payments\\paymentwebhooklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\support\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\support\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\support\\ticketdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\support\\ticketdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\supportstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\supportstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\resale\\resaletransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\resale\\resaletransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\resale\\ticketresalelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\resale\\ticketresalelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\resalepayoutstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\resalepayoutstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\resalelistingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\resalelistingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\pricing\\seatlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\pricing\\seatlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\pricing\\pricetier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\pricing\\pricetier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\eventseatconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\eventseatconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\pricing\\eventseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\pricing\\eventseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\pricing\\eventsectionpricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\pricing\\eventsectionpricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\payments\\refundtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\payments\\refundtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\refundstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\refundstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\persistence\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\persistence\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\ticketing\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\ticketing\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\payments\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\payments\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\payments\\paymenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\payments\\paymenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\identity\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\identity\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\identity\\blacklistedattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\identity\\blacklistedattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\ticketing\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\ticketing\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\catalog\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\catalog\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\catalog\\eventperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\catalog\\eventperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98E98EBD-4E86-DDC1-9E2A-5C26F3ADEE09}|TicketBooking.Api\\TicketBooking.Api.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98E98EBD-4E86-DDC1-9E2A-5C26F3ADEE09}|TicketBooking.Api\\TicketBooking.Api.csproj|solutionrelative:ticketbooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\catalog\\eventorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,12 +39,36 @@
       "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\catalog\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\catalog\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\catalog\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\cartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\cartconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\addons\\addonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\addons\\addonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\venuezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\venuezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\venuesection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\venuesection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\eventconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\eventconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\venues\\seatmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\venues\\seatmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\ticketing\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\ticketing\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\ticketing\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\ticketing\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\ticketing\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -155,36 +79,176 @@
       "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\ticketing\\bookingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\ticketing\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\ticketing\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\eventseatstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\eventseatstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\support\\ticketdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\support\\ticketdispute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\support\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\support\\supportticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\resale\\ticketresalelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\resale\\ticketresalelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\baseentity\\mbaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\baseentity\\mbaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\resale\\resaletransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\resale\\resaletransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\pricing\\seatlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\pricing\\seatlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\pricing\\pricetier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\pricing\\pricetier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\payments\\refundtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\payments\\refundtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\payments\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\payments\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\payments\\paymentwebhooklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\payments\\paymentwebhooklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\payments\\paymenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\payments\\paymenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\identity\\blacklistedattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\identity\\blacklistedattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\catalog\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\catalog\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\catalog\\eventperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\catalog\\eventperformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\addons\\addonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\addons\\addonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\entities\\catalog\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\entities\\catalog\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\refundsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\refundsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\resaletransactionsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\resaletransactionsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\paymenttransactionsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\paymenttransactionsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\cartitemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\cartitemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\ticketconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\ticketconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\bookingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\bookingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\venuesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\venuesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\resalepayoutstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\resalepayoutstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.infrastructure\\configurations\\baseentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61E23-C179-FF6B-E74D-5B46AD989F79}|TicketBooking.Infrastructure\\TicketBooking.Infrastructure.csproj|solutionrelative:ticketbooking.infrastructure\\configurations\\baseentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\ticketbooking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\ticketbooking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\eventseatstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\eventseatstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\baseentity\\mbaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\baseentity\\mbaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E98EBD-4E86-DDC1-9E2A-5C26F3ADEE09}|TicketBooking.Api\\TicketBooking.Api.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E98EBD-4E86-DDC1-9E2A-5C26F3ADEE09}|TicketBooking.Api\\TicketBooking.Api.csproj|solutionrelative:ticketbooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98E98EBD-4E86-DDC1-9E2A-5C26F3ADEE09}|TicketBooking.Api\\TicketBooking.Api.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.api\\ticketbooking.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{98E98EBD-4E86-DDC1-9E2A-5C26F3ADEE09}|TicketBooking.Api\\TicketBooking.Api.csproj|solutionrelative:ticketbooking.api\\ticketbooking.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\supportstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\supportstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\resalelistingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\resalelistingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\refundstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\refundstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\enums\\eventstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|c:\\users\\doctor_pc\\source\\repos\\c#fundamentals\\ado.net\\adod2\\my ticket\\ticketbooking.domain\\ticketbooking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E225C8E2-1158-DFFB-0DD8-B2D3F75E95FE}|TicketBooking.Domain\\TicketBooking.Domain.csproj|solutionrelative:ticketbooking.domain\\ticketbooking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -194,216 +258,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Venue.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\Venue.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\Venue.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\Venue.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\Venue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T16:08:30.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VenueSection.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\VenueSection.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\VenueSection.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\VenueSection.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\VenueSection.cs",
-              "ViewState": "AgIAAAAAAACAQspPqpUcwBAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T16:56:18.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VenueZone.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\VenueZone.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\VenueZone.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\VenueZone.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\VenueZone.cs",
-              "ViewState": "AgIAABwAAAAAGZC93tUZwBMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T21:09:09.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SeatMap.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\SeatMap.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\SeatMap.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\SeatMap.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\SeatMap.cs",
-              "ViewState": "AgIAABIAAAAARwINNhUFwCwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T21:06:35.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Ticket.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Ticket.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T22:26:27.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PaymentWebhookLog.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PaymentWebhookLog.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Payments\\PaymentWebhookLog.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PaymentWebhookLog.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Payments\\PaymentWebhookLog.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwDEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:51:54.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SupportTicket.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Support\\SupportTicket.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Support\\SupportTicket.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Support\\SupportTicket.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Support\\SupportTicket.cs",
-              "ViewState": "AgIAABoAAACgMnBASzMnwEAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T21:01:29.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Seat.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\Seat.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\Seat.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\Seat.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\Seat.cs",
-              "ViewState": "AgIAABAAAACAF7ZmK2sowAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T18:42:07.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TicketDispute.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Support\\TicketDispute.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Support\\TicketDispute.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Support\\TicketDispute.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Support\\TicketDispute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T21:01:53.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SupportStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\SupportStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\SupportStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\SupportStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\SupportStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T21:02:27.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResaleTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Resale\\ResaleTransaction.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Resale\\ResaleTransaction.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Resale\\ResaleTransaction.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Resale\\ResaleTransaction.cs",
-              "ViewState": "AgIAAEoAAACAUs4Xe7cUwFsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T20:46:03.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PaymentMethod.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\PaymentMethod.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\PaymentMethod.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\PaymentMethod.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\PaymentMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T16:50:34.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TransactionStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\TransactionStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\TransactionStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\TransactionStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\TransactionStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T16:52:50.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TicketResaleListing.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Resale\\TicketResaleListing.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Resale\\TicketResaleListing.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Resale\\TicketResaleListing.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Resale\\TicketResaleListing.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T20:53:43.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ResalePayoutStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\ResalePayoutStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\ResalePayoutStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\ResalePayoutStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\ResalePayoutStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T20:56:26.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ResaleListingStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\ResaleListingStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\ResaleListingStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\ResaleListingStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\ResaleListingStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T20:55:34.812Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -414,33 +270,297 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
+              "Title": "20260901215107_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Migrations\\20260901215107_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Migrations\\20260901215107_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Migrations\\20260901215107_InitialCreate.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Migrations\\20260901215107_InitialCreate.cs",
+              "ViewState": "AgIAALsDAAAAAAAAAAAAANkDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:51:07.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventSeatConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\EventSeatConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\EventSeatConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\EventSeatConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\EventSeatConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T17:31:13.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\Seat.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\Seat.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\Seat.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\Seat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:42:07.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAACAO/Z692cKwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T22:32:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EventSeat.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Pricing\\EventSeat.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Pricing\\EventSeat.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Pricing\\EventSeat.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Pricing\\EventSeat.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T19:13:39.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T19:13:39.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EventSectionPricing.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Pricing\\EventSectionPricing.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Pricing\\EventSectionPricing.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Pricing\\EventSectionPricing.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Pricing\\EventSectionPricing.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:30:06.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T16:45:10.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TicketBooking.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Api\\appsettings.json",
+              "RelativeToolTip": "TicketBooking.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T23:20:50.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventOrganizer.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\EventOrganizer.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Catalog\\EventOrganizer.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\EventOrganizer.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Catalog\\EventOrganizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T17:30:03.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\Event.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Catalog\\Event.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\Event.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Catalog\\Event.cs",
+              "ViewState": "AgIAAAoAAAAAlSpR9jIrwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T14:07:16.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VenueZone.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\VenueZone.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\VenueZone.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\VenueZone.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\VenueZone.cs",
+              "ViewState": "AgIAAC4AAAAARkYHJOHnvwoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T21:09:09.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VenueSection.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\VenueSection.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\VenueSection.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\VenueSection.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\VenueSection.cs",
+              "ViewState": "AgIAABIAAACAqvBneBsdwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:56:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\CartConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\CartConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\CartConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\CartConfig.cs",
+              "ViewState": "AgIAAAsAAABgHccPlbQywBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:13:04.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\EventConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\EventConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\EventConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\EventConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:48:52.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\Venue.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\Venue.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\Venue.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:08:30.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeatMap.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\SeatMap.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Venues\\SeatMap.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Venues\\SeatMap.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Venues\\SeatMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T21:06:35.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Ticket.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T22:26:27.187Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\CartItem.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\CartItem.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\CartItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T21:36:37.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Cart.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\Cart.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Cart.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\Cart.cs",
+              "ViewState": "AgIAAAgAAAAA64muC6cnwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T21:26:36.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingItem.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\BookingItem.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\BookingItem.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\BookingItem.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\BookingItem.cs",
+              "ViewState": "AgIAAAsAAAAAA7aDEXv+vxoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T22:05:22.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Booking.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\Booking.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Booking.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\Booking.cs",
+              "ViewState": "AgIAABEAAAAAJdpzmVr0vw4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T17:07:53.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketDispute.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Support\\TicketDispute.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Support\\TicketDispute.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Support\\TicketDispute.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Support\\TicketDispute.cs",
+              "ViewState": "AgIAAAoAAABAhQFLrsIBwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T21:01:53.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SupportTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Support\\SupportTicket.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Support\\SupportTicket.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Support\\SupportTicket.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Support\\SupportTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T21:01:29.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TicketResaleListing.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Resale\\TicketResaleListing.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Resale\\TicketResaleListing.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Resale\\TicketResaleListing.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Resale\\TicketResaleListing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:53:43.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResaleTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Resale\\ResaleTransaction.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Resale\\ResaleTransaction.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Resale\\ResaleTransaction.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Resale\\ResaleTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:46:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "SeatLock.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Pricing\\SeatLock.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Pricing\\SeatLock.cs",
@@ -448,90 +568,71 @@
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Pricing\\SeatLock.cs",
               "ViewState": "AgIAAAUAAAAYPSe9b3wdwB4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T20:59:43.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T20:59:43.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "PriceTier.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Pricing\\PriceTier.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Pricing\\PriceTier.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Pricing\\PriceTier.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Pricing\\PriceTier.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T20:10:44.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T20:10:44.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "RefundTransaction.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\RefundTransaction.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Payments\\RefundTransaction.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\RefundTransaction.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Payments\\RefundTransaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAACIIqRuZw8twAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T20:37:42.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T20:37:42.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RefundStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\RefundStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\RefundStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\RefundStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\RefundStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T20:40:21.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "PaymentTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PaymentTransaction.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Payments\\PaymentTransaction.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PaymentTransaction.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Payments\\PaymentTransaction.cs",
-              "ViewState": "AgIAAAEAAACghHZOswAPwBcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T16:37:47.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "PromoCode.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PromoCode.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Payments\\PromoCode.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PromoCode.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Payments\\PromoCode.cs",
-              "ViewState": "AgIAAAwAAADAEdpyLhEgwAgAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:41:44.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T17:41:44.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Booking.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\Booking.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Booking.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\Booking.cs",
-              "ViewState": "AgIAAHsAAADIyxmKOwQ8wAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "PaymentWebhookLog.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PaymentWebhookLog.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Payments\\PaymentWebhookLog.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PaymentWebhookLog.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Payments\\PaymentWebhookLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:07:53.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T17:51:54.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
+              "Title": "PaymentTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PaymentTransaction.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Payments\\PaymentTransaction.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Payments\\PaymentTransaction.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Payments\\PaymentTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T16:37:47.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Identity\\UserRole.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Identity\\UserRole.cs",
@@ -539,125 +640,55 @@
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Identity\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T20:20:00.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T20:20:00.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "BlackListedAttendee.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Identity\\BlackListedAttendee.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Identity\\BlackListedAttendee.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Identity\\BlackListedAttendee.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Identity\\BlackListedAttendee.cs",
-              "ViewState": "AgIAABAAAAAAMGr3q4DTvywAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:30:02.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T17:30:02.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Identity\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Identity\\ApplicationUser.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Identity\\ApplicationUser.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Identity\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T00:19:37.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T00:19:37.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Membership.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Identity\\Membership.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Identity\\Membership.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Identity\\Membership.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Identity\\Membership.cs",
-              "ViewState": "AgIAAAgAAAB8v7UTJUE1wCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:30:07.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\CartItem.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\CartItem.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T21:36:37.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "EventSchedule.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\EventSchedule.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Catalog\\EventSchedule.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\EventSchedule.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Catalog\\EventSchedule.cs",
-              "ViewState": "AgIAAC4AAAAAFkuRfHkqwAMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T15:28:40.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T15:28:40.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "EventPerformer.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\EventPerformer.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Catalog\\EventPerformer.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\EventPerformer.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\Catalog\\EventPerformer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:30:05.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "EventOrganizer.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\EventOrganizer.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Catalog\\EventOrganizer.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\EventOrganizer.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Catalog\\EventOrganizer.cs",
-              "ViewState": "AgIAACYAAACA5xvRPesUwD8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:30:03.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\Event.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Catalog\\Event.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\Event.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Catalog\\Event.cs",
-              "ViewState": "AgIAAAQAAAAA7vDXZKEqwBQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T14:07:16.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\Category.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Catalog\\Category.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\Category.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Catalog\\Category.cs",
-              "ViewState": "AgIAABcAAADgctnonK82wAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T00:19:37.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T17:30:05.185Z"
             },
             {
               "$type": "Document",
@@ -667,130 +698,217 @@
               "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\AddOns\\AddOnService.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\AddOns\\AddOnService.cs",
               "RelativeToolTip": "TicketBooking.Domain\\Entities\\AddOns\\AddOnService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T17:30:00.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T17:30:00.657Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Cart.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\Cart.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\Cart.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\Category.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Catalog\\Category.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Catalog\\Category.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Catalog\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T21:26:36.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T00:19:37.613Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "BookingItem.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\BookingItem.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Entities\\Ticketing\\BookingItem.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Entities\\Ticketing\\BookingItem.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Entities\\Ticketing\\BookingItem.cs",
-              "ViewState": "AgIAABcAAAAAIv32dTAKwBMAAAAUAAAAAAAAAA==",
+              "Title": "RefundsConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\RefundsConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\RefundsConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\RefundsConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\RefundsConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T22:05:22.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T16:37:07.096Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "BookingStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\BookingStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\BookingStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\BookingStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\BookingStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Title": "ResaleTransactionsConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\ResaleTransactionsConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\ResaleTransactionsConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\ResaleTransactionsConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\ResaleTransactionsConfig.cs",
+              "ViewState": "AgIAAB8AAAAAp9B5jdUQwD0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T18:13:09.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "TicketStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\TicketStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\TicketStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\TicketStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\TicketStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T22:29:18.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T16:25:24.437Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "EventSeatStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\EventSeatStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\EventSeatStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\EventSeatStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\EventSeatStatus.cs",
-              "ViewState": "AgIAAAAAAABguDoA4nouwAQAAAAQAAAAAAAAAA==",
+              "Title": "PaymentTransactionsConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\PaymentTransactionsConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\PaymentTransactionsConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\PaymentTransactionsConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\PaymentTransactionsConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T19:38:39.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T16:14:08.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartItemConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\CartItemConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\CartItemConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\CartItemConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\CartItemConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:35:16.533Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "EventStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\EventStatus.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\EventStatus.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\EventStatus.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\Enums\\EventStatus.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "TicketConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\TicketConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\TicketConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\TicketConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\TicketConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T14:50:57.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T02:47:01.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "MBaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\BaseEntity\\MBaseEntity.cs",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\BaseEntity\\MBaseEntity.cs",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\BaseEntity\\MBaseEntity.cs",
-              "RelativeToolTip": "TicketBooking.Domain\\BaseEntity\\MBaseEntity.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Title": "BookingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\BookingConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\BookingConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\BookingConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\BookingConfig.cs",
+              "ViewState": "AgIAABUAAACA4bGfxRIWwDQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T00:19:37.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T02:33:07.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
+              "Title": "VenuesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\VenuesConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\VenuesConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\VenuesConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\VenuesConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T23:39:54.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\UserConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\UserConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\UserConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T23:03:37.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\CategoryConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\CategoryConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:19:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResalePayoutStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\ResalePayoutStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\ResalePayoutStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\ResalePayoutStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\ResalePayoutStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:56:26.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\BaseEntityConfig.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Infrastructure\\Configurations\\BaseEntityConfig.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Infrastructure\\Configurations\\BaseEntityConfig.cs",
+              "RelativeToolTip": "TicketBooking.Infrastructure\\Configurations\\BaseEntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T22:32:16.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\BaseEntity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "TicketBooking.Domain\\BaseEntity\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\BaseEntity\\BaseEntity.cs",
               "RelativeToolTip": "TicketBooking.Domain\\BaseEntity\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T00:19:27.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T00:19:27.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "TicketBooking.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\TicketBooking.Domain.csproj",
-              "RelativeDocumentMoniker": "TicketBooking.Domain\\TicketBooking.Domain.csproj",
-              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\TicketBooking.Domain.csproj",
-              "RelativeToolTip": "TicketBooking.Domain\\TicketBooking.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-28T00:19:25.158Z"
+              "DocumentIndex": 49,
+              "Title": "EventSeatStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\EventSeatStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\EventSeatStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\EventSeatStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\EventSeatStatus.cs",
+              "ViewState": "AgIAAAAAAABguDoA4nouwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:38:39.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
+              "Title": "MBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\BaseEntity\\MBaseEntity.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\BaseEntity\\MBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\BaseEntity\\MBaseEntity.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\BaseEntity\\MBaseEntity.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T00:19:37.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Api\\Program.cs",
+              "RelativeToolTip": "TicketBooking.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T23:22:42.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\TicketStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\TicketStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T22:54:55.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "TicketBooking.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Api\\TicketBooking.Api.csproj",
               "RelativeDocumentMoniker": "TicketBooking.Api\\TicketBooking.Api.csproj",
@@ -799,6 +917,102 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-08-28T00:19:07.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SupportStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\SupportStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\SupportStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\SupportStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\SupportStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T21:02:27.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T16:50:34.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\TransactionStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T16:52:50.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ResaleListingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\ResaleListingStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\ResaleListingStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\ResaleListingStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\ResaleListingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:55:34.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RefundStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\RefundStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\RefundStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\RefundStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\RefundStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:40:21.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\BookingStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\BookingStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\BookingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T18:13:09.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EventStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\EventStatus.cs",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\Enums\\EventStatus.cs",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\Enums\\EventStatus.cs",
+              "RelativeToolTip": "TicketBooking.Domain\\Enums\\EventStatus.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T14:50:57.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TicketBooking.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\TicketBooking.Domain.csproj",
+              "RelativeDocumentMoniker": "TicketBooking.Domain\\TicketBooking.Domain.csproj",
+              "ToolTip": "C:\\Users\\Doctor_PC\\source\\repos\\C#Fundamentals\\ADO.NET\\ADOD2\\My Ticket\\TicketBooking.Domain\\TicketBooking.Domain.csproj",
+              "RelativeToolTip": "TicketBooking.Domain\\TicketBooking.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-28T00:19:25.158Z"
             }
           ]
         }

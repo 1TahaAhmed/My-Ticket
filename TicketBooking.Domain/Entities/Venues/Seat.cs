@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 using System.Xml.Linq;
 using TicketBooking.Domain.BaseEntity;
@@ -7,12 +9,16 @@ using TicketBooking.Domain.Entities.Venues;
 
 namespace TicketBooking.Domain.Entities.Venues
 {
-    public class Seat : MBaseEntity
+    public class Seat : BaseEntity<int>
     {
+        [Required, ForeignKey(nameof(VenueSection))]
         public Guid VenueSectionId { get; private set; }
         public VenueSection? VenueSection { get; private set; }
+
+        [Required, MaxLength(1000)]
         public string RowNumber { get; private set; } = string.Empty;
         public int SeatNumber { get; private set; }
+        [Required, MaxLength(1500)]
         public string Label => $"{RowNumber}-{SeatNumber}";
         public bool IsAccessible { get; private set; }
         public bool IsRestrictedView { get; private set; }

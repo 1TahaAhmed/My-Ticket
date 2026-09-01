@@ -6,33 +6,33 @@ using TicketBooking.Domain.Entities.Catalog;
 using TicketBooking.Domain.Entities.Venues;
 using TicketBooking.Domain;
 using TicketBooking.Domain.BaseEntity;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TicketBooking.Domain.Entities.Pricing
 {
-    public class EventSeat : MBaseEntity
+    public class EventSeat : BaseEntity<Guid>
     {
         public Guid EventScheduleId { get; private set; }
         public EventSchedule? EventSchedule { get; private set; }
-        public Guid SeatId { get; private set; }
+
+
+        public int SeatId { get; private set; }
         public Seat? Seat { get; private set; }
+
+
         public decimal Price { get; private set; }
         public EventSeatStatus SeatStatus { get; private set; } = EventSeatStatus.Available;
 
         private EventSeat() { }
 
         public EventSeat(decimal price,
-            Guid seatId,
+            int seatId,
             Guid eventScheduleId)
         {
             Price = price;
             SeatId = seatId;
             EventScheduleId = eventScheduleId;
-
-            if (seatId == Guid.Empty)
-                throw new ArgumentException("SeatId is required.", nameof(seatId));
-
-            if (eventScheduleId == Guid.Empty)
-                throw new ArgumentException("EventScheduleId is required.", nameof(eventScheduleId));
 
             UpdateDetails(price);
         }

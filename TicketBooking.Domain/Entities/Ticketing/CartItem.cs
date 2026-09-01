@@ -1,35 +1,32 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using TicketBooking.Domain.BaseEntity;
-using TicketBooking.Domain.Entities.Pricing;
-using TicketBooking.Domain.Entities.Ticketing;
 
 namespace TicketBooking.Domain.Entities.Ticketing
 {
-    public class CartItem : BaseEntity<int>
+    public class CartItem : BaseEntity<Guid>
     {
         public Guid CartId { get; private set; }
-        public Guid EventSeatId { get; private set; }
-        public decimal Price { get; private set; }
         public Cart? Cart { get; private set; }
-        public EventSeat? EventSeat { get; private set; }
+
+        public int SeatId { get; private set; }
+        public decimal Price { get; private set; }
         public DateTime AddedAtUtc { get; private set; }
 
         private CartItem() { }
-        public CartItem(Guid cartId, Guid eventSeatId, decimal price)
+
+        public CartItem(Guid cartId, int seatId, decimal price)
         {
             if (cartId == Guid.Empty)
-                throw new ArgumentException("cart id cannot be null!");
+                throw new ArgumentException("Cart ID cannot be empty.", nameof(cartId));
 
-            if (eventSeatId == Guid.Empty)
-                throw new ArgumentException("event seat id cannot be null!");
+            if (seatId <= 0)
+                throw new ArgumentException("Seat ID must be a positive integer.", nameof(seatId));
 
             if (price <= 0)
                 throw new ArgumentException("Price must be greater than zero.", nameof(price));
 
             CartId = cartId;
-            EventSeatId = eventSeatId;
+            SeatId = seatId;
             Price = price;
             AddedAtUtc = DateTime.UtcNow;
         }

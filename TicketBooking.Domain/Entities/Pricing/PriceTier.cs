@@ -7,7 +7,7 @@ using TicketBooking.Domain.Entities.Catalog;
 
 namespace TicketBooking.Domain.Entities.Pricing
 {
-    public class PriceTier : BaseEntity<int>
+    public class PriceTier : BaseEntity<Guid>
     {
         public Guid EventScheduleId { get; private set; }
         public EventSchedule? EventSchedule { get; private set; }

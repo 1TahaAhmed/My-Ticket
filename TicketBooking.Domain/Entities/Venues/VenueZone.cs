@@ -1,20 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using Ticket;
 using TicketBooking.Domain.BaseEntity;
 
 namespace TicketBooking.Domain.Entities.Venues
 {
-    public class VenueZone : MBaseEntity
+    public class VenueZone : BaseEntity<Guid>
     {
-        public Guid VenueId { get; private set; }
+        [Required, ForeignKey(nameof(Venue))]
+        public int VenueId { get; private set; }
         public Venue? Venue { get; private set; }
-
+        [Required, MaxLength(100)]
         public string Name { get; private set; } = string.Empty;
+        [Required, MaxLength(100)]
         public string Code { get; private set; } = string.Empty;
         public int Capacity { get; private set; }
+        [Required]
         public bool HasNumberedSeats { get; private set; }
+        [MaxLength(100)]
         public string? GateName { get; private set; }
 
         private readonly List<VenueSection> _sections = new();
@@ -23,16 +29,13 @@ namespace TicketBooking.Domain.Entities.Venues
         private VenueZone() { }
 
         public VenueZone(
-            Guid venueId,
+            int venueId,
             string name,
             string code,
             int capacity,
             bool hasNumberedSeats = true,
             string? gateName = null)
         {
-            if (venueId == Guid.Empty)
-                throw new ArgumentException("VenueId is required.", nameof(venueId));
-
             VenueId = venueId;
             HasNumberedSeats = hasNumberedSeats;
             GateName = gateName?.Trim();

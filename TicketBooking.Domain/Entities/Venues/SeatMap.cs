@@ -6,7 +6,7 @@ namespace TicketBooking.Domain.Entities.Venues
 {
     public class SeatMap : MBaseEntity
     {
-        public Guid VenueId { get; private set; }
+        public int VenueId { get; private set; }
         public Venue? Venue { get; private set; }
 
         public string Name { get; private set; } = string.Empty;           // Main Stage Map, Concert Layout A
@@ -16,9 +16,9 @@ namespace TicketBooking.Domain.Entities.Venues
 
         private SeatMap() { }
 
-        public SeatMap(Guid venueId, string name, string layoutJson, string? svgUrl = null)
+        public SeatMap(int venueId, string name, string layoutJson, string? svgUrl = null)
         {
-            if (venueId == Guid.Empty)
+            if (venueId <= 0)
                 throw new ArgumentException("VenueId is required.", nameof(venueId));
 
             VenueId = venueId;
