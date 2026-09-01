@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-using TicketBooking.Domain.BaseEntity;
-using TicketBooking.Domain.Entities.Ticketing;
 using System.Linq;
+using TicketBooking.Domain.BaseEntity;
 using TicketBooking.Domain.Entities.Identity;
 
 namespace TicketBooking.Domain.Entities.Ticketing
@@ -12,59 +10,43 @@ namespace TicketBooking.Domain.Entities.Ticketing
     {
         public Guid UserId { get; private set; }
         public ApplicationUser? User { get; private set; }
-        public DateTime ExpiresAtUtc { get; private set; }
-        public bool IsCheckedOut { get; private set; }
 
         private readonly List<CartItem> _items = new();
         public IReadOnlyCollection<CartItem> Items => _items.AsReadOnly();
 
         public decimal TotalAmount => _items.Sum(x => x.Price);
-        public bool IsExpired => DateTime.UtcNow > ExpiresAtUtc;
 
         private Cart() { }
-        public Cart(Guid userId, int expirationMinutes = 15) 
+
+        public Cart(Guid userId)
         {
             if (userId == Guid.Empty)
                 throw new ArgumentException("UserId is required.", nameof(userId));
 
-            if (expirationMinutes <= 0)
-                throw new ArgumentException("Expiration minutes must be greater than zero.", nameof(expirationMinutes));
-
             UserId = userId;
-            ExpiresAtUtc = DateTime.UtcNow.AddMinutes(expirationMinutes);
-            IsCheckedOut = false;
         }
-        public void AddItem(CartItem item) 
+
+        public void AddItem(CartItem item)
         {
             ArgumentNullException.ThrowIfNull(item);
 
-            if (IsCheckedOut)
-                throw new InvalidOperationException("Cannot add items to a checked-out cart.");
-
-            if (IsExpired)
-                throw new InvalidOperationException("Cannot add items to an expired cart.");
+            if (_items.Any(i => i.SeatId == item.SeatId))
+                throw new InvalidOperationException("This seat is already added to the cart.");
 
             _items.Add(item);
         }
-        public void MarkAsCheckedOut()
+
+        public void RemoveItem(int seatId)
         {
-            if (IsCheckedOut)
-                throw new InvalidOperationException("Cart is already checked out.");
-
-            if (IsExpired)
-                throw new InvalidOperationException("Cannot check out an expired cart.");
-
-            if (!_items.Any())
-                throw new InvalidOperationException("Cannot check out an empty cart.");
-
-            IsCheckedOut = true;
+            var item = _items.FirstOrDefault(i => i.SeatId == seatId);
+            if (item != null)
+            {
+                _items.Remove(item);
+            }
         }
 
         public void Clear()
         {
-            if (IsCheckedOut)
-                throw new InvalidOperationException("Cannot clear a checked-out cart.");
-
             _items.Clear();
         }
     }

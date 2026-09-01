@@ -1,12 +1,16 @@
 ﻿using System;
 using TicketBooking.Domain.BaseEntity;
-
+using TicketBooking.Domain.Entities.Pricing;
+        
 namespace TicketBooking.Domain.Entities.Ticketing
-{
+{       
     public class CartItem : BaseEntity<Guid>
-    {
+    {   
         public Guid CartId { get; private set; }
         public Cart? Cart { get; private set; }
+
+        public Guid EventSeatId { get; private set; }
+        public EventSeat? EventSeat { get; private set; }
 
         public int SeatId { get; private set; }
         public decimal Price { get; private set; }
@@ -24,11 +28,11 @@ namespace TicketBooking.Domain.Entities.Ticketing
 
             if (price <= 0)
                 throw new ArgumentException("Price must be greater than zero.", nameof(price));
-
+        
             CartId = cartId;
             SeatId = seatId;
             Price = price;
             AddedAtUtc = DateTime.UtcNow;
         }
-    }
-}
+    }   
+}       

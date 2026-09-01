@@ -36,7 +36,7 @@ namespace TicketBooking.Infrastructure.Configurations
             builder.HasMany(s => s.Schedules)
                 .WithOne(e => e.Event)
                 .HasForeignKey(s => s.EventId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .OnDelete(DeleteBehavior.Restrict);
 
             builder.Navigation(e => e.Schedules)
                 .UsePropertyAccessMode(PropertyAccessMode.Field);
@@ -44,7 +44,7 @@ namespace TicketBooking.Infrastructure.Configurations
             builder.HasMany(p => p.Performers)
                 .WithOne(e => e.Event)
                 .HasForeignKey(e => e.EventId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .OnDelete(DeleteBehavior.Restrict);
 
             builder.Navigation(e => e.Performers)
                 .UsePropertyAccessMode(PropertyAccessMode.Field);
