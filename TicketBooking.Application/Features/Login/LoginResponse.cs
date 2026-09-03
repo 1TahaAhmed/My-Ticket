@@ -4,8 +4,9 @@ using System.Text;
 
 namespace TicketBooking.Application.Features.Login
 {
-    public class LoginResponse
-    {
-
-    }
+    public record LoginResponse(
+        string Token,
+        string Email,
+        DateTime ExpiresAtUtc
+    );
 }
