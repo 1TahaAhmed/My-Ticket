@@ -29,4 +29,3 @@ namespace TicketBooking.Infrastructure.Configurations
         }
     }
 }
-            
